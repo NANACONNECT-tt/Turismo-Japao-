@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+    background-color:aliceblue;
+    padding: 15px;
+}
+footer{
+    text-align: center;
+    background-color:aliceblue;
+    padding: 1px;
+}
+iframe{
+    margin-left: 8%;
+}
+#video_cultura{
+    margin-left: 18%;
+}
+input{
+    font-size: 15px;
+}
+a{
+    font-size: 15xp;
+}
+textarea{
+    font-size: 15px;
+}
+a:link{
+   color:#a20202;
+}
+a:visited{
+    color:mediumpurple;
+}
+nav{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    background-color: aliceblue;
+    padding: 2px;
+}
+ul{
+    margin-left: 2%;
+}
+p::selection{
+    background-color: tomato;
+}
+#imagem{
+    margin-left: 3%;
+}
+.cartao-turismo{
+    display: flex;
+    gap: 20px;
+}
+form{
+    font-size: 20px;
+}
